@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1245</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>933</ColumnWidth1>
+        <ColumnWidth2>249</ColumnWidth2>
+        <ColumnWidth3>62</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>62</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly>
+    <Watch><Format><struct_types/><watch_formats/></Format><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><Column0>100</Column0><Column1>308</Column1><Column2>100</Column2><Column3>100</Column3></Watch><StaticWatch><Column0>100</Column0><Column1>159</Column1><Column2>100</Column2><Column3>100</Column3></StaticWatch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28735-3812</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28212-3821</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6715-3815</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>qued</ExpandedNode><ExpandedNode>qued/User</ExpandedNode><ExpandedNode>qued/User/dmp</ExpandedNode><ExpandedNode>qued/User/inc</ExpandedNode><ExpandedNode>qued/User/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17464-3818</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-21855-7016</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>duty</Expression></Expression><Expression><Expression>b</Expression></Expression><Expression><Expression>acc_x_h</Expression></Expression><Expression><Expression>acc_x_l</Expression></Expression><Expression><Expression>acc_y_h</Expression></Expression><Expression><Expression>acc_y_l</Expression></Expression><Expression><Expression>acc_z_h</Expression></Expression><Expression><Expression>acc_z_l</Expression></Expression></Expressions><TabId>1</TabId><Column0>100</Column0><Column1>308</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab><Tab><Identity>TabID-30554-11007</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory><Session><Expressions><Expression><Expression>acc_x_h</Expression></Expression><Expression><Expression>acc_x_l</Expression></Expression><Expression><Expression>acc_y_h</Expression></Expression><Expression><Expression>acc_y_l</Expression></Expression><Expression><Expression>acc_z_h</Expression></Expression><Expression><Expression>acc_z_l</Expression></Expression><Expression><Expression>acc_x</Expression></Expression><Expression><Expression>acc_y</Expression></Expression><Expression><Expression>acc_z</Expression></Expression><Expression><Expression>gyro_x</Expression></Expression><Expression><Expression>gyro_y</Expression></Expression><Expression><Expression>gyro_z</Expression></Expression><Expression><Expression>tem</Expression></Expression><Expression><Expression>anbt_mpu6050_quat_data</Expression></Expression><Expression><Expression>gyro</Expression></Expression><Expression><Expression>accel</Expression></Expression><Expression><Expression>gyro1</Expression></Expression><Expression><Expression>accel1</Expression></Expression><Expression><Expression>Pitch</Expression></Expression><Expression><Expression>Roll</Expression></Expression><Expression><Expression>Yaw</Expression></Expression></Expressions><TabId>2</TabId><Column0>100</Column0><Column1>159</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\my_sensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>58</SelStart><SelEnd>58</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_conf.h</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>1778</SelStart><SelEnd>1778</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_it.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\my_gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>73</SelStart><SelEnd>73</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_tim.h</Filename><XPos>0</XPos><YPos>284</YPos><SelStart>14791</SelStart><SelEnd>14791</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\MPU6050.h</Filename><XPos>0</XPos><YPos>336</YPos><SelStart>14270</SelStart><SelEnd>14294</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\moto.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>3713</SelStart><SelEnd>3713</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>2034</SelStart><SelEnd>2034</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\moto.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>201</SelStart><SelEnd>201</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\my_gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>95</SelStart><SelEnd>95</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\timer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>90</SelStart><SelEnd>90</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\control.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\IAR Systems\Embedded Workbench 6.0\arm\inc\c\stdint.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>648</SelStart><SelEnd>648</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_i2c.h</Filename><XPos>0</XPos><YPos>118</YPos><SelStart>3992</SelStart><SelEnd>3992</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>4162</SelStart><SelEnd>4162</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>365</YPos><SelStart>11355</SelStart><SelEnd>11355</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>45</SelStart><SelEnd>45</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\uart.c</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>5546</SelStart><SelEnd>5546</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_fun.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>648</SelStart><SelEnd>648</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\IAR Systems\Embedded Workbench 6.0\arm\src\lib\dlib\main.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1007</SelStart><SelEnd>1007</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\MPU6050.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1404</SelStart><SelEnd>1404</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\simulter_IIC.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>392</SelStart><SelEnd>392</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StartUp\core_cm3.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1502</SelStart><SelEnd>1502</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>161</YPos><SelStart>7788</SelStart><SelEnd>7788</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1248</SelStart><SelEnd>1248</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\control.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>57</SelStart><SelEnd>57</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\includes.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>438</SelStart><SelEnd>438</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_driver.h</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>2433</SelStart><SelEnd>2433</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\simulter_IIC.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>868</SelStart><SelEnd>868</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\timer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>363</SelStart><SelEnd>363</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\src\stm32f10x_usart.c</Filename><XPos>0</XPos><YPos>815</YPos><SelStart>31094</SelStart><SelEnd>31094</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\src\stm32f10x_tim.c</Filename><XPos>0</XPos><YPos>2613</YPos><SelStart>96242</SelStart><SelEnd>96242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_i2c.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1957</SelStart><SelEnd>1957</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_mpu6050.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>2724</SelStart><SelEnd>2724</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\main.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>2070</SelStart><SelEnd>2070</SelEnd></Tab><ActiveTab>34</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_uart.c</Filename><XPos>0</XPos><YPos>131</YPos><SelStart>5800</SelStart><SelEnd>5800</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>449</YPos><SelStart>19557</SelStart><SelEnd>19557</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_i2c.c</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>1542</SelStart><SelEnd>1542</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_mpu6050.c</Filename><XPos>0</XPos><YPos>1265</YPos><SelStart>35471</SelStart><SelEnd>35471</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_driver.c</Filename><XPos>0</XPos><YPos>1173</YPos><SelStart>51416</SelStart><SelEnd>51416</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00c2d750><key>iaridepm.enu1</key></Toolbar-00c2d750></Sizes></Row0><Row1><Sizes><Toolbar-0b5ed010><key>armjlink.enu1</key></Toolbar-0b5ed010></Sizes></Row1></Top><Left><Row0><Sizes><Toolbar-0b2f2200><key>debuggergui.enu1</key></Toolbar-0b2f2200></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>-2</Top><Left>23</Left><Bottom>635</Bottom><Right>178</Right><x>23</x><y>-2</y><xscreen>818</xscreen><yscreen>336</yscreen><sizeHorzCX>440258</sizeHorzCX><sizeHorzCY>323699</sizeHorzCY><sizeVertCX>83423</sizeVertCX><sizeVertCY>613680</sizeVertCY></Rect></Wnd5></Sizes></Row1><Row2><Sizes><Wnd6><Rect><Top>-2</Top><Left>176</Left><Bottom>635</Bottom><Right>373</Right><x>176</x><y>-2</y><xscreen>818</xscreen><yscreen>336</yscreen><sizeHorzCX>440258</sizeHorzCX><sizeHorzCY>323699</sizeHorzCY><sizeVertCX>106028</sizeVertCX><sizeVertCY>613680</sizeVertCY></Rect></Wnd6></Sizes></Row2></Left><Right><Row0><Sizes><Wnd7><Rect><Top>-2</Top><Left>-2</Left><Bottom>635</Bottom><Right>647</Right><x>-2</x><y>-2</y><xscreen>972</xscreen><yscreen>265</yscreen><sizeHorzCX>523143</sizeHorzCX><sizeHorzCY>255299</sizeHorzCY><sizeVertCX>349300</sizeVertCX><sizeVertCY>613680</sizeVertCY></Rect></Wnd7></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>334</Bottom><Right>1860</Right><x>-2</x><y>-2</y><xscreen>1862</xscreen><yscreen>336</yscreen><sizeHorzCX>1002153</sizeHorzCX><sizeHorzCY>323699</sizeHorzCY><sizeVertCX>440258</sizeVertCX><sizeVertCY>323699</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

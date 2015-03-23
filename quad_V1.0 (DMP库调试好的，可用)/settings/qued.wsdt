@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>qued/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>100</Column0><Column1>2</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>933</ColumnWidth1><ColumnWidth2>249</ColumnWidth2><ColumnWidth3>62</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1245</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1212-12738</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>qued</ExpandedNode><ExpandedNode>qued/FWlib</ExpandedNode><ExpandedNode>qued/StartUp</ExpandedNode><ExpandedNode>qued/User</ExpandedNode><ExpandedNode>qued/User/dmp</ExpandedNode><ExpandedNode>qued/User/inc</ExpandedNode><ExpandedNode>qued/User/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3388-20065</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-4769-29311</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\my_sensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>58</SelStart><SelEnd>58</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_conf.h</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>1778</SelStart><SelEnd>1778</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_it.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\my_gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>73</SelStart><SelEnd>73</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_tim.h</Filename><XPos>0</XPos><YPos>284</YPos><SelStart>14791</SelStart><SelEnd>14791</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\MPU6050.h</Filename><XPos>0</XPos><YPos>336</YPos><SelStart>14270</SelStart><SelEnd>14294</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\moto.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>3713</SelStart><SelEnd>3713</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>2034</SelStart><SelEnd>2034</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\moto.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>201</SelStart><SelEnd>201</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\my_gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>95</SelStart><SelEnd>95</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\timer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>90</SelStart><SelEnd>90</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\control.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\IAR Systems\Embedded Workbench 6.0\arm\inc\c\stdint.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>648</SelStart><SelEnd>648</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_i2c.h</Filename><XPos>0</XPos><YPos>118</YPos><SelStart>3992</SelStart><SelEnd>3992</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>4162</SelStart><SelEnd>4162</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>365</YPos><SelStart>11355</SelStart><SelEnd>11355</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>45</SelStart><SelEnd>45</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\uart.c</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>5546</SelStart><SelEnd>5546</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_fun.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>648</SelStart><SelEnd>648</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\IAR Systems\Embedded Workbench 6.0\arm\src\lib\dlib\main.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1007</SelStart><SelEnd>1007</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\MPU6050.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1404</SelStart><SelEnd>1404</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\simulter_IIC.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>392</SelStart><SelEnd>392</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StartUp\core_cm3.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1502</SelStart><SelEnd>1502</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>161</YPos><SelStart>7788</SelStart><SelEnd>7788</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1248</SelStart><SelEnd>1248</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\control.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>57</SelStart><SelEnd>57</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\includes.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>438</SelStart><SelEnd>438</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_driver.h</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>2433</SelStart><SelEnd>2433</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\simulter_IIC.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>868</SelStart><SelEnd>868</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\timer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>363</SelStart><SelEnd>363</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\src\stm32f10x_usart.c</Filename><XPos>0</XPos><YPos>815</YPos><SelStart>31094</SelStart><SelEnd>31094</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\src\stm32f10x_tim.c</Filename><XPos>0</XPos><YPos>2613</YPos><SelStart>96242</SelStart><SelEnd>96242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_i2c.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1957</SelStart><SelEnd>1957</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_mpu6050.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>2724</SelStart><SelEnd>2724</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\main.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1634</SelStart><SelEnd>1634</SelEnd></Tab><ActiveTab>34</ActiveTab></Pane><ActivePane>0</ActivePane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_uart.c</Filename><XPos>0</XPos><YPos>131</YPos><SelStart>5800</SelStart><SelEnd>5800</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\library\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>449</YPos><SelStart>19557</SelStart><SelEnd>19557</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_i2c.c</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>1542</SelStart><SelEnd>1542</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_mpu6050.c</Filename><XPos>0</XPos><YPos>1265</YPos><SelStart>35471</SelStart><SelEnd>35471</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\anbt_dmp\anbt_dmp_driver.c</Filename><XPos>0</XPos><YPos>1173</YPos><SelStart>51416</SelStart><SelEnd>51416</SelEnd></Tab><ActiveTab>4</ActiveTab></Pane><Sizes><Pane><X>574556</X><Y>1000000</Y></Pane><Pane><X>425443</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00c2d750><key>iaridepm.enu1</key></Toolbar-00c2d750></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>827</Bottom><Right>166</Right><x>-2</x><y>-2</y><xscreen>130</xscreen><yscreen>153</yscreen><sizeHorzCX>69968</sizeHorzCX><sizeHorzCY>147399</sizeHorzCY><sizeVertCX>90420</sizeVertCX><sizeVertCY>798651</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>166</Bottom><Right>1860</Right><x>-2</x><y>-2</y><xscreen>1862</xscreen><yscreen>168</yscreen><sizeHorzCX>1002153</sizeHorzCX><sizeHorzCY>161850</sizeHorzCY><sizeVertCX>69968</sizeVertCX><sizeVertCY>147399</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
